@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<rss version="2.0">
+  <channel>
+    <title>Keda sina viimati lugesid?</title>
+    <description>Vikerraadio Podcast</description>
+    <link>http://vikerraadio.err.ee</link>
+    <copyright>Vikerraadio</copyright>
+    <generator>Vikerraadio saadete automaat</generator>
+    <managingEditor>erkki.neidre@err.ee (Erkki Neidre)</managingEditor>
+    <webMaster>erkki.neidre@err.ee (Erkki Neidre)</webMaster>
+    <category>Publitsistika</category>
+    <pubDate>Tue, 28 Oct 2014 01:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Oct 2014 10:22:00 +0200</lastBuildDate>
+    <language>et</language>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <image>
+      <url>http://heli.err.ee/exp/vikerraadio.jpg</url>
+      <title>Vikerraadio Podcast</title>
+      <link>http://vikerraadio.err.ee</link>
+    </image>
+    <item>
+      <title>Keda sina viimati lugesid? Ülo Tuulik Andrus Kivirähkist  05.08.2010</title>
+      <description>Keda sina viimati lugesid? 
+Ülo Tuulik Andrus Kivirähkist
+toimetaja Urmas Vadi
+heli Külli Tüli Allalaetav kuni 06.08.2012</description>
+      <link>http://heli.er.ee/helid/1396841.mp3</link>
+      <enclosure url="http://heli.er.ee/helid/1396841.mp3" length="29339392" type="audio/mpeg"/>
+      <!-- length on faili suurus byte-ides -->
+      <guid>http://heli.er.ee/helid/1396841.mp3</guid>
+      <category>Publitsistika</category>
+      <pubDate>Thu, 05 Aug 2010 01:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Keda sina viimati lugesid? Tarmo Teder Ülo Tuulikust  04.08.2010</title>
+      <description>Keda sina viimati lugesid? 
+Tarmo Teder Ülo Tuulikust
+toimetaja Urmas Vadi
+heli Külli Tüli Allalaetav kuni 05.08.2012</description>
+      <link>http://heli.er.ee/helid/1396611.mp3</link>
+      <enclosure url="http://heli.er.ee/helid/1396611.mp3" length="28944896" type="audio/mpeg"/>
+      <!-- length on faili suurus byte-ides -->
+      <guid>http://heli.er.ee/helid/1396611.mp3</guid>
+      <category>Publitsistika</category>
+      <pubDate>Wed, 04 Aug 2010 01:00:00 +0200</pubDate>
+    </item>
+  </channel>
+</rss>
